@@ -624,6 +624,11 @@
 	icon_state = "bar"
 	sound_env = LARGE_SOFTFLOOR
 
+/area/crew_quarters/party
+	name = "\improper Party Room"
+	icon_state = "bar"
+	sound_env = LARGE_SOFTFLOOR
+
 /area/library
  	name = "\improper Library"
  	icon_state = "library"
