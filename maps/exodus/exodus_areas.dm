@@ -597,6 +597,31 @@
 	icon_state = "Sleep"
 	flags = AREA_RAD_SHIELDED
 
+/area/crew_quarters/sleep/room_one
+	name = "\improper Dorm One"
+	icon_state = "Sleep"
+	flags = AREA_RAD_SHIELDED
+
+/area/crew_quarters/sleep/room_two
+	name = "\improper Dorm Two"
+	icon_state = "Sleep"
+	flags = AREA_RAD_SHIELDED
+
+/area/crew_quarters/sleep/room_three
+	name = "\improper Dorm Three"
+	icon_state = "Sleep"
+	flags = AREA_RAD_SHIELDED
+
+/area/crew_quarters/sleep/room_four
+	name = "\improper Dorm Four"
+	icon_state = "Sleep"
+	flags = AREA_RAD_SHIELDED
+
+/area/crew_quarters/sleep/room_five
+	name = "\improper Dorm Five"
+	icon_state = "Sleep"
+	flags = AREA_RAD_SHIELDED
+
 /area/crew_quarters/sleep/engi_wash
 	name = "\improper Engineering Washroom"
 	icon_state = "toilet"
