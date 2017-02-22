@@ -637,9 +637,9 @@
 	icon_state = "toilet"
 	sound_env = SMALL_ENCLOSED
 
-/area/crew_quarters/fitness
-	name = "\improper Fitness Room"
-	icon_state = "fitness"
+/area/crew_quarters/lobby
+	name = "\improper Crew Quarter Lobby Room"
+	icon_state = "crew_quarters"
 
 /area/crew_quarters/kitchen
 	name = "\improper Kitchen"
