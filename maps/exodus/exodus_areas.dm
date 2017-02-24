@@ -579,9 +579,9 @@
 // Crew
 
 /area/crew_quarters
-	name = "\improper Dormitories"
-	icon_state = "Sleep"
-	flags = AREA_RAD_SHIELDED
+	name = "\improper Crew Quarters"
+	icon_state = "crew_quarters"
+	sound_env = LARGE_SOFTFLOOR
 
 /area/crew_quarters/locker
 	name = "\improper Locker Room"
@@ -595,6 +595,32 @@
 /area/crew_quarters/sleep
 	name = "\improper Dormitories"
 	icon_state = "Sleep"
+	flags = AREA_RAD_SHIELDED
+
+/area/crew_quarters/sleep/room_one
+	name = "\improper Dorm One"
+	icon_state = "Sleep"
+	flags = AREA_RAD_SHIELDED
+
+/area/crew_quarters/sleep/room_two
+	name = "\improper Dorm Two"
+	icon_state = "Sleep"
+	flags = AREA_RAD_SHIELDED
+
+/area/crew_quarters/sleep/room_three
+	name = "\improper Dorm Three"
+	icon_state = "Sleep"
+	flags = AREA_RAD_SHIELDED
+
+/area/crew_quarters/sleep/room_four
+	name = "\improper Dorm Four"
+	icon_state = "Sleep"
+	flags = AREA_RAD_SHIELDED
+
+/area/crew_quarters/sleep/room_five
+	name = "\improper Dorm Five"
+	icon_state = "Sleep"
+	flags = AREA_RAD_SHIELDED
 
 /area/crew_quarters/sleep/engi_wash
 	name = "\improper Engineering Washroom"
@@ -611,18 +637,36 @@
 	icon_state = "toilet"
 	sound_env = SMALL_ENCLOSED
 
-/area/crew_quarters/fitness
-	name = "\improper Fitness Room"
-	icon_state = "fitness"
+/area/crew_quarters/lobby
+	name = "\improper Crew Quarter Lobby Room"
+	icon_state = "crew_quarters"
 
 /area/crew_quarters/kitchen
 	name = "\improper Kitchen"
 	icon_state = "kitchen"
 
+/area/crew_quarters/club
+	name = "\improper Club Room"
+	icon_state = "club"
+	sound_env = LARGE_SOFTFLOOR
+
 /area/crew_quarters/bar
 	name = "\improper Bar"
 	icon_state = "bar"
 	sound_env = LARGE_SOFTFLOOR
+
+/area/crew_quarters/bar/beach_bar
+	name = "\improper Beach Bar"
+	icon_state = "beach_bar"
+
+/area/crew_quarters/merchant
+	name = "\improper Bazar"
+	icon_state = "merchant"
+	sound_env = LARGE_SOFTFLOOR
+
+/area/crew_quarters/merchant/office
+	name = "\improper Bazar Office"
+	icon_state = "merchant_office"
 
 /area/library
  	name = "\improper Library"
