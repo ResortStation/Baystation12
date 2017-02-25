@@ -113,7 +113,7 @@
 "ci" = (/obj/effect/floor_decal/industrial/warning/corner,/obj/structure/cable/green{d1 = 1; d2 = 2; icon_state = "1-2"},/obj/machinery/atmospherics/pipe/simple/visible/supply,/obj/machinery/atmospherics/pipe/simple/visible/scrubbers,/turf/simulated/floor/plating,/area/crew_quarters)
 "cj" = (/obj/effect/floor_decal/industrial/warning,/obj/machinery/light/small{dir = 4},/turf/simulated/floor/plating,/area/crew_quarters)
 "ck" = (/obj/structure/closet/emcloset,/turf/simulated/floor/plating,/area/crew_quarters/sleep)
-"cl" = (/obj/machinery/alarm{dir = 8; icon_state = "alarm0"; pixel_x = 24},/obj/structure/closet/hydrant{step_y = 30},/turf/simulated/floor/plating,/area/crew_quarters/sleep)
+"cl" = (/obj/machinery/alarm{dir = 8; icon_state = "alarm0"; pixel_x = 24},/obj/structure/closet/hydrant{pixel_y = 30},/turf/simulated/floor/plating,/area/crew_quarters/sleep)
 "cm" = (/turf/simulated/wall,/area/crew_quarters/sleep)
 "cn" = (/turf/simulated/floor/wood,/area/crew_quarters/sleep/room_one)
 "co" = (/obj/machinery/light{dir = 1},/turf/simulated/floor/wood,/area/crew_quarters/sleep/room_one)
